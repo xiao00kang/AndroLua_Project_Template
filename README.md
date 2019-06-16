@@ -2,9 +2,10 @@
 
 ##### 使用此模板在Android Studio上开发AndroLua应用！
 
+
 ![截图](/screenshot.png)
 
-
+<br/>
 闲言碎语：<br/>
 最近尝试在Android Studio上开发AndroLua应用，发现不尽人意，主要就是没有语法提示的插件(至少我是找不到)，语法高亮的倒是有，或者没有好的Lua编辑器和不能实时执行代码，有一款叫做LuaStudio的Lua语言编辑器操作方式很是不喜，所以还是手机上写AndroLua应用好，顺便把模板放gayhub上供需要的人下载！
 
