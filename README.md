@@ -1,5 +1,5 @@
 ## AndroLua_Project_Template
-#####使用此模板在Android Studio上开发AndroLua应用！
+##### 使用此模板在Android Studio上开发AndroLua应用！
 
 ![截图](/screenshot.png)
 
@@ -9,4 +9,4 @@
 
 <br/>
 ### 注意事项：
-**  由于Android Studio绝大部分的模拟器镜像都是x86、x64架构，而该项目的AndroLua Sdk使用的是从AndroLua的安装包中提取出来的编译好的armeabi-v7a架构的so库，所以打包时可能会安装失败，可以使用市面上主流的雷某、逍某模拟器，如果想编译多平台的so库可以访问 [AndroLua_pro](https://github.com/nirenr/AndroLua_pro) 下载源码自行编译！ **
+** 由于Android Studio绝大部分的模拟器镜像都是x86、x64架构，而该项目的AndroLua Sdk使用的是从AndroLua的安装包中提取出来的编译好的armeabi-v7a架构的so库，所以打包时可能会安装失败，可以使用市面上主流的雷某、逍某模拟器，如果想编译多平台的so库可以访问 [AndroLua_pro](https://github.com/nirenr/AndroLua_pro) 下载源码自行编译！ **
